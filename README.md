@@ -15,24 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-🔭 I'm currently diving deep into Data Engineering (Python, SQL, AWS, Apache Spark, Kafka, Airflow and Hadoop)
+🔭 I'm currently diving deep into Data Engineering (Python, SQL, AWS, Apache Spark, Kafka, Airflow and Hadoop).
 
-🧑‍💼 I have working experience as a Back End Developer and Team Leader
+🧑‍💼 I have working experience as a Back End Developer and Team Leader.
 
-🎓 I've got a Bachelor's Degree in Electronic Engineering from UTFPR
+🎓 I've got a Bachelor's Degree in Electronic Engineering from UTFPR.
 
 ⚡ Fun facts: I speak some German, I like lifting weights and I built a flamethrowing robot in university 🤖🔥🔥🔥
 
-📫 How to reach me: [send me a message on LinkedIn](https://www.linkedin.com/in/ericmidt/)
+📫 How to reach me: [send me a message on LinkedIn.](https://www.linkedin.com/in/ericmidt/)
 
 ### Languages
-- Python, SQL, Java, C, C++, Bash, HTML and CSS
+- Python, SQL, Java, C, C++, Bash, HTML and CSS.
 
 ### Databases
-- PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, SQLite.
+- PostgreSQL, MySQL, MongoDB, Microsoft SQL Server and SQLite.
 
 ### Tools
-- AWS, Git, Docker, Kubernetes, Apache Kafka, Airflow and Linux
+- AWS, Git, Docker, Kubernetes, Apache Kafka, Airflow Hadoop and Linux.
 
 
 <!--[![My Skills](https://skillicons.dev/icons?i=py,java,bash,c,cpp,html,css)](https://skillicons.dev)
