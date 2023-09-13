@@ -1,4 +1,4 @@
-### Hi there! Thanks for checking out my GitHub! 👋
+## Hi there! Thanks for checking out my GitHub! 👋
 
 <!--
 **ericmidt/ericmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### About me
+### About me
 🔭 I'm currently diving deep into Data Engineering (Python, SQL, AWS, Apache Spark, Kafka, Airflow and Hadoop)
 
 🧑‍💼 I have working experience as a Back End Developer and Team Leader
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 📫 How to reach me: [send me a message on LinkedIn](https://www.linkedin.com/in/ericmidt/)
 
-#### Languages
+### Languages
 - Python, SQL, Java, C, C++, Bash, HTML and CSS
 
-#### Databases
+### Databases
 - PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, SQLite.
 
-#### Tools
+### Tools
 - AWS, Git, Docker, Kubernetes, Apache Kafka, Airflow and Linux
 
 
