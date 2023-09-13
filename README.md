@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 🎓 I've got a Bachelor's Degree in Electronic Engineering from UTFPR.
 
-⚡ Fun facts: I speak some German, I like lifting weights and I built a flamethrowing robot in university 🤖🔥🔥🔥
+🛠️ Check out [my portfolio](ericmidt.github.io).
 
-📫 How to reach me: [send me a message on LinkedIn.](https://www.linkedin.com/in/ericmidt/)
+📫 Reach out to me via [LinkedIn.](https://www.linkedin.com/in/ericmidt/)
 
 ### Languages
 - Python, SQL, Java, C, C++, Bash, HTML and CSS.
