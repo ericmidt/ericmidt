@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🎓 I've got a Bachelor's Degree in Electronic Engineering from UTFPR.
 
-🛠️ Check out [my portfolio.](https://ericmidt.github.io)
+🛠️ Check out [my portfolio.](../ericmidt.github.io)
 
 📫 Reach out to me via [LinkedIn.](https://www.linkedin.com/in/ericmidt/)
 
