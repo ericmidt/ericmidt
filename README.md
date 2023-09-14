@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - PostgreSQL, MySQL, MongoDB, Microsoft SQL Server and SQLite.
 
 ### Tools
-- AWS, Git, Docker, Kubernetes, Apache Kafka, Airflow Hadoop and Linux.
+- AWS, Git, Docker, Kubernetes, Apache Kafka, Airflow, Hadoop and Linux.
 
 
 <!--[![My Skills](https://skillicons.dev/icons?i=py,java,bash,c,cpp,html,css)](https://skillicons.dev)
