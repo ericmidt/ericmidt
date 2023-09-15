@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Python, SQL, Java, C, C++, Bash, HTML and CSS.
 
 ### Databases
-- PostgreSQL, MySQL, MongoDB, Microsoft SQL Server and SQLite.
+- PostgreSQL, MySQL, MongoDB and SQLite.
 
 ### Tools
 - AWS, Git, Docker, Kubernetes, Apache Kafka, Airflow, Hadoop and Linux.
