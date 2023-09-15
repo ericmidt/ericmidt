@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### About me
 🔭 I'm currently diving deep into Data Engineering (Python, SQL, AWS, Apache Spark, Kafka, Airflow and Hadoop).
 
-🧑‍💼 I have working experience as a Back End Developer and Team Leader.
+🧑‍💼 I have working experience as a Back-End Developer and Team Leader.
 
 🎓 I've got a Bachelor's Degree in Electronic Engineering from UTFPR.
 
