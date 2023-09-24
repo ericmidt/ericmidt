@@ -1,4 +1,4 @@
-## Hi there! Thanks for checking out my GitHub! 👋
+## Hi there! Thanks for checking out my GitHub!
 
 <!--
 **ericmidt/ericmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - PostgreSQL, MySQL, MongoDB and SQLite.
 
 ### Tools
-- AWS, Apache Airflow, Apache Kafka, Git, Docker, Kubernetes, Hadoop and Linux.
+- AWS, Airflow, Kafka, Git, Docker, Kubernetes, Hadoop and Linux.
 
 
 <!--[![My Skills](https://skillicons.dev/icons?i=py,java,bash,c,cpp,html,css)](https://skillicons.dev)
