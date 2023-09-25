@@ -19,8 +19,3 @@
 
 ### Tools
 - AWS, Airflow, Kafka, Git, Docker, Kubernetes, Hadoop and Linux.
-
-
-<!--[![My Skills](https://skillicons.dev/icons?i=py,java,bash,c,cpp,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,flask,git,github,kafka,linux,mongodb,postgres,spring)](https://skillicons.dev)
--->
