@@ -15,7 +15,7 @@
 - Python, SQL, Java, C, C++, Bash, HTML and CSS.
 
 ### Databases
-- PostgreSQL, MySQL, MongoDB and SQLite.
+- Oracle, PostgreSQL, MySQL, MongoDB and SQLite.
 
 ### Tools
-- AWS, Airflow, Kafka, Git, Docker, Kubernetes and Linux.
+- DBeaver, AWS, Airflow, Kafka, Git, Docker, Kubernetes and Linux.
