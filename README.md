@@ -5,7 +5,7 @@
 
 🧑‍💼 I have professional experience as a Back-End Developer and as a Team Leader.
 
-🎓 I've got a Bachelor's Degree in Electronics Engineering from UTFPR.
+🎓 I have a Bachelor's Degree in Electronics Engineering from UTFPR.
 
 🛠️ Check out [my portfolio.](https://ericmidt.github.io)
 
