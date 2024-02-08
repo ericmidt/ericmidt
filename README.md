@@ -3,7 +3,7 @@
 ### About me
 🔭 I'm currently diving deep into Data Engineering (Python, SQL, AWS, Spark, Kafka and Airflow).
 
-🧑‍💼 I have professional experience as a Back-End Developer and as a Team Leader.
+🧑‍💼 I have professional experience as a Back-End Developer and as a Data Integration Developer.
 
 🎓 I have a Bachelor's Degree in Electronics Engineering from UTFPR.
 
