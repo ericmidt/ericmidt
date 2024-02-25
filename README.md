@@ -18,4 +18,4 @@
 - Oracle, PostgreSQL, MySQL, MongoDB and SQLite.
 
 ### Tools
-- DBeaver, AWS, Airflow, Kafka, Git, Docker, Kubernetes and Linux.
+- AWS, Airflow, Kafka, Git, Docker, Kubernetes and Linux.
