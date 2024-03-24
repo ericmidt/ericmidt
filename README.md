@@ -12,7 +12,7 @@
 📫 Reach out to me via [LinkedIn.](https://www.linkedin.com/in/ericmidt/)
 
 ### Languages
-- Python, SQL, Java, C, C++, Bash, HTML and CSS.
+- Python, SQL, C, C++, Bash, HTML and CSS.
 
 ### Databases
 - Oracle, PostgreSQL, MySQL, MongoDB and SQLite.
