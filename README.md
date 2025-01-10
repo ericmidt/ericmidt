@@ -11,8 +11,8 @@
 
 📫 Reach out to me via [LinkedIn.](https://www.linkedin.com/in/ericmidt/)  
 
-### Programming Languages  
-- Python, SQL, C, C++, Bash, HTML, and CSS
+### Programming & Scripting
+- Python, SQL, Bash
 
 ### Databases  
 - Snowflake, Oracle, PostgreSQL, MySQL, MongoDB, and SQLite  
