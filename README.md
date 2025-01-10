@@ -1,21 +1,27 @@
 ## Hi there! Thanks for checking out my GitHub!
 
-### About me
-🔭 I'm currently diving deep into Data Engineering (Python, SQL, AWS, Spark, Kafka and Airflow).
+### About me  
+🔭 I'm a Data Engineer with expertise in building scalable pipelines, OLAP data modeling, and working with event-streaming data architectures.  
 
-🧑‍💼 I have professional experience as a Back-End Developer and as a Data Integration Developer.
+🧑‍💼 I currently work at Wiley, where I design and maintain modern data solutions using tools like AWS Glue, Python, Snowflake, and Airflow.
 
-🎓 I have a Bachelor's Degree in Electronics Engineering from UTFPR.
+🎓 I hold a Bachelor's Degree in Electronics Engineering from UTFPR.
 
-🛠️ Check out [my portfolio.](https://ericmidt.github.io)
+🛠️ Check out [my portfolio.](https://ericmidt.github.io)  
 
-📫 Reach out to me via [LinkedIn.](https://www.linkedin.com/in/ericmidt/)
+📫 Reach out to me via [LinkedIn.](https://www.linkedin.com/in/ericmidt/)  
 
-### Languages
-- Python, SQL, C, C++, Bash, HTML and CSS.
+### Programming Languages  
+- Python, SQL, C, C++, Bash, HTML, and CSS
 
-### Databases
-- Oracle, PostgreSQL, MySQL, MongoDB and SQLite.
+### Databases  
+- Snowflake, Oracle, PostgreSQL, MySQL, MongoDB, and SQLite  
 
-### Tools
-- AWS, Airflow, Kafka, Git, Docker, Kubernetes and Linux.
+### Tools & Technologies  
+- AWS (Glue, S3), Airflow, Docker, Kubernetes, Linux, pytest, Git, and WSL2
+
+### Key Skills  
+- Medallion architecture design
+- Event-streaming data integration
+- Data quality checks with OpenMetadata and pytest  
+- OLAP data modeling for reporting
