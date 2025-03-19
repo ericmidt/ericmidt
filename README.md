@@ -14,14 +14,14 @@
 ### Programming & Scripting
 - Python, SQL, Bash
 
-### Databases  
-- Snowflake, Oracle, PostgreSQL, MySQL, MongoDB, and SQLite  
+### Data Technologies  
+- Snowflake, Oracle, MySQL, MongoDB
 
-### Tools & Technologies  
-- AWS (Glue, S3), Airflow, Docker, Kubernetes, Linux, pytest, Git, and WSL2
+### Cloud & Tools 
+- AWS Glue, S3, Kafka, Airflow, Docker, Spark
 
-### Key Skills  
-- Medallion architecture design
-- Event-streaming data integration
-- Data quality checks with OpenMetadata and pytest  
-- OLAP data modeling for reporting
+### Data Quality & DevOps
+- OpenMetadata, Git, Linux, Dev Container
+
+### Methodologies
+- SAFe Scrum, Agile Methodology
