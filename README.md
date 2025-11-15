@@ -19,7 +19,11 @@
 📫 Reach out to me via [LinkedIn.](https://www.linkedin.com/in/ericmidt/) 
 
 ➡️ Programming & Scripting: Python, SQL, Bash
+
 ➡️ Data Technologies: Snowflake, Oracle, MySQL, MongoDB
+
 ➡️ Cloud & Tools: AWS Glue, Lambda, S3, Airflow, Dagster, Docker, dbt, Spark, Kafka, 
+
 ➡️ Data Quality & DevOps: OpenMetadata, Git, Linux, Dev Containers
+
 ➡️ Methodologies: SAFe Scrum, Agile
