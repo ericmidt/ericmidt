@@ -3,7 +3,7 @@
 ### About me  
 🔭 I'm a Senior Data Engineer with expertise in building scalable pipelines, OLAP data modeling, and working with event-streaming data architectures.  
 
-🧑‍💼 I currently work at phData, where I design and maintain modern data solutions using tools like Snowflake, dbt and Airflow.
+🧑‍💼 I currently work at phData, where I design and implement modern data solutions using tools like Snowflake, dbt and Airflow.
 
 🏅 Certifications
 • SnowPro Core
