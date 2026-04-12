@@ -3,9 +3,8 @@
 ### About me  
 🔭 I'm a Senior Data Engineer with expertise in building scalable pipelines, OLAP data modeling, and working with event-streaming data architectures.  
 
-🧑‍💼 I currently work at phData, where I design and implement modern data solutions using tools like Snowflake, dbt and Airflow.
-
 🏅 Certifications
+• SnowPro Advanced Data Engineer
 • SnowPro Core
 • dbt Certified Developer
 • Coalesce Fundamentals
@@ -20,9 +19,9 @@
 
 ➡️ Programming & Scripting: Python, SQL, Bash
 
-➡️ Data Technologies: Snowflake, Oracle, MySQL, MongoDB
+➡️ Data Technologies: Snowflake, MySQL, MongoDB
 
-➡️ Cloud & Tools: AWS Glue, Lambda, S3, Airflow, Dagster, Docker, dbt, Spark, Kafka, 
+➡️ Cloud & Tools: dbt, Airflow, AWS Glue, Lambda, S3, Dagster, Docker, Spark, Kafka
 
 ➡️ Data Quality & DevOps: OpenMetadata, Git, Linux, Dev Containers
 
