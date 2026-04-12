@@ -4,12 +4,12 @@
 🔭 I'm a Senior Data Engineer with expertise in building scalable pipelines, OLAP data modeling, and working with event-streaming data architectures.  
 
 🏅 Certifications
-• SnowPro Advanced Data Engineer
-• SnowPro Core
-• dbt Certified Developer
-• Coalesce Fundamentals
-• Fivetran Technical Accreditation
-• IBM Data Engineering Professional Certificate
+• SnowPro Advanced Data Engineer  
+• SnowPro Core  
+• dbt Certified Developer  
+• Coalesce Fundamentals  
+• Fivetran Technical Accreditation  
+• IBM Data Engineering Professional Certificate  
 
 🎓 Education
 • Postgraduate Degree in Data Architecture & Engineering
