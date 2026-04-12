@@ -3,7 +3,7 @@
 ### About me  
 🔭 I'm a Senior Data Engineer with expertise in building scalable pipelines, OLAP data modeling, and working with event-streaming data architectures.  
 
-🏅 Certifications
+🏅 Certifications  
 • SnowPro Advanced Data Engineer  
 • SnowPro Core  
 • dbt Certified Developer  
