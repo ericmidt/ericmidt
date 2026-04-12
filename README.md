@@ -11,11 +11,9 @@
 • Fivetran Technical Accreditation  
 • IBM Data Engineering Professional Certificate  
 
-🎓 Education
-• Postgraduate Degree in Data Architecture & Engineering
-• Bachelor's Degree in Electronics Engineering
-
-📫 Reach out to me via [LinkedIn.](https://www.linkedin.com/in/ericmidt/) 
+🎓 Education  
+• Postgraduate Degree in Data Architecture & Engineering  
+• Bachelor's Degree in Electronics Engineering  
 
 ➡️ Programming & Scripting: Python, SQL, Bash
 
@@ -25,4 +23,6 @@
 
 ➡️ Data Quality & DevOps: OpenMetadata, Git, Linux, Dev Containers
 
-➡️ Methodologies: SAFe Scrum, Agile
+➡️ Methodologies: SAFe Scrum, Agile  
+
+📫 Reach out to me via [LinkedIn.](https://www.linkedin.com/in/ericmidt/) 
